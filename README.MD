@@ -35,7 +35,7 @@ To set up the environment, you can use the provided `requirements.txt` file.
 
 ## Usage
 
-The `train.py` script provides a command-line interface to train the fool image generator.
+The `main.py` script provides a command-line interface to train the fool image generator.
 
 ### Command-line Arguments
 
